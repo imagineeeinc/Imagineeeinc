@@ -1,4 +1,5 @@
-<center><h1>Welcome To Imagineee Official Profile</h1></center>
+<h1>Welcome To Imagineee Official Profile</h1>
+
 [YouTube](https://www.youtube.com/channel/UClvGLxFbeFdiDYXnmlpmSTg)
 
 [Github](https://github.com/imagineeeinc)
