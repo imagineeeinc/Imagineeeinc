@@ -1,6 +1,6 @@
 <center><h1>Welcome To Imagineee Official Profile</h1></center>
-<p>(YouTube)[https://www.youtube.com/channel/UClvGLxFbeFdiDYXnmlpmSTg]</p>
-<p>(Github)[https://github.com/imagineeeinc]</p>
+<p>[YouTube](https://www.youtube.com/channel/UClvGLxFbeFdiDYXnmlpmSTg)</p>
+<p>[Github](https://github.com/imagineeeinc)</p>
 
 
 <!--
