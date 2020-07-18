@@ -24,7 +24,7 @@ We own Wood the application suite and other small projects.
 
 ### Other projects:
 -[Potion TxT Encrypt](https://github.com/imagineeeinc/Potion-TxT-1-Layer-Encrypter)
--[MIC]<https://github.com/imagineeeinc/MIC)
+-[MIC](https://github.com/imagineeeinc/MIC)
 -[Wiki Lake](https://github.com/imagineeeinc/WikiLake.com)
 
 
