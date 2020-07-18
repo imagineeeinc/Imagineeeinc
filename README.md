@@ -18,13 +18,18 @@ We own Wood the application suite and other small projects.
 
 ### Wood applications:
 -[Wood Note](https://github.com/imagineeeinc/Wood-Note)
+
 -[Wood WebBox](https://github.com/imagineeeinc/Wood-WebBox)
+
 -[Wood Clock](https://github.com/imagineeeinc/Wood-Clock)
+
 -[Wood To Do](https://github.com/imagineeeinc/Wood-ToDo)
 
 ### Other projects:
 -[Potion TxT Encrypt](https://github.com/imagineeeinc/Potion-TxT-1-Layer-Encrypter)
+
 -[MIC](https://github.com/imagineeeinc/MIC)
+
 -[Wiki Lake](https://github.com/imagineeeinc/WikiLake.com)
 
 
