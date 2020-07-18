@@ -14,4 +14,4 @@ We own Wood the application suite and other small projects.
 
 I am also a [Arctic Code Vault Contributor](https://archiveprogram.github.com/)
 [](https://i.ytimg.com/vi/fzI9FNjXQ0o/maxresdefault.jpg)
-<img src="https://i.ytimg.com/vi/fzI9FNjXQ0o/maxresdefault.jpg" style="width: 5%; text-align: center;">
+
