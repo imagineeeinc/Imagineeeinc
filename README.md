@@ -10,9 +10,9 @@ I also develop for [Supeee Corp](https://github.com/Supeee-corp)
 <!--
 **imagineeeinc/Imagineeeinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Over here we develop state of the art Software.
+here I develop state of the art Software.
 
-We own Wood the application suite and other small projects.
+I own Wood the application suite and other small projects.
 
 <center>----</center>
 
