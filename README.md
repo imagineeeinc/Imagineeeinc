@@ -4,6 +4,8 @@
 
 [Github](https://github.com/imagineeeinc)
 
+I also develop for [Supeee Corp](https://github.com/Supeee-corp)
+
 
 <!--
 **imagineeeinc/Imagineeeinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
