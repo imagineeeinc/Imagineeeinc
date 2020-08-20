@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Imagineee</title>
 <meta name="viewport" content="initial-scale=1, maximum-scale=1" />
 
 <meta name="theme-color" content="white"/>
