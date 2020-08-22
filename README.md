@@ -23,6 +23,12 @@
 <p>Loves Open Source, </p>
 <p>Will Always be will Open Source</p>
 </h3>
+  <p>Hello, </p>
+<p style="margin-left: 90px;">
+I am a small imaginative developer who just wants to make ambitious project like 
+<a href="https://github.com/imagineeeinc/Wood-Note" taget="_blank">Wood Note</a> or
+<a href="https://github.com/imagineeeinc/Table-Chat" taget="_blank">Table Chat</a>
+</p>
 </div>
 </div>
 <div id="repos">
@@ -50,13 +56,6 @@
 <a href="https://github.com/imagineeeinc?tab=repositories">Check My repositories and other projects</a>
 </div>
 <div id="info">
-<p>
-Hello, </p>
-<p style="margin-left: 90px;">
-I am a small imaginative developer who just wants to make ambitious project like 
-<a href="https://github.com/imagineeeinc/Wood-Note" taget="_blank">Wood Note</a> or
-<a href="https://github.com/imagineeeinc/Table-Chat" taget="_blank">Table Chat</a>
-</p>
 <br>
 <p style="margin-left: 90px;">
 Check me on <a href="https://github.com/imagineeeinc" target="_blank">GitHub</a>
