@@ -17,7 +17,7 @@
 <a href="https://dev.to/imagineeeinc">
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="30" width="30">
   </a>
-  <a href="https://stackoverflow.com/users/13628564/imagineeedev" target="_blank"><img src="icon/so.png" width="30px"></a>
+  <a href="https://stackoverflow.com/users/13628564/imagineeedev" target="_blank"><img src="https://raw.githubusercontent.com/imagineeeinc/Imagineeeinc/master/icon/so.png" width="30px"></a>
 <h3 style="margin-top: 80px;">
 <p>Is Open Source, </p>
 <p>Loves Open Source, </p>
@@ -50,7 +50,7 @@
 <a href="https://github.com/imagineeeinc?tab=repositories">Check My repositories and other projects</a>
 </div>
 <div id="info">
-<p><img src="icon/user.png" style="width: 80px; border-radius: 75px; border: 2px solid lightgrey;">
+<p>
 Hello, </p>
 <p style="margin-left: 90px;">
 I am a small imaginative developer who just wants to make ambitious project like 
@@ -70,7 +70,6 @@ for my opensource projects
 </p>
 </div>
 <footer>
-<p><img src="icon/user.png" style="width: 35px; border-radius: 75px; border: 1px solid lightgrey;"></p>
 <p>©2020</p>
 <a href="https://github.com/imagineeeinc">Imagineee</a>
 </footer>
