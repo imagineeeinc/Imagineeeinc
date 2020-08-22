@@ -13,7 +13,7 @@
 <div id="header">
 <div id="headcon">
 <h1 id="head"><a href="https://imagineeeinc.github.io/">Imagineee</a></h1>
-<a href="https://github.com/imagineeeinc" target="_blank"><img src="icon/Github.png" width="30px"></a>
+<a href="https://github.com/imagineeeinc" target="_blank"><img src="https://raw.githubusercontent.com/imagineeeinc/Imagineeeinc/master/icon/Github.png" width="30px"></a>
 <a href="https://dev.to/imagineeeinc">
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="30" width="30">
   </a>
@@ -26,7 +26,7 @@
 </div>
 </div>
 <div id="repos">
-<h3>Some of My Projects<img src="icon/Github.png" width="15px"></h3>
+<h3>Some of My Projects<img src="https://raw.githubusercontent.com/imagineeeinc/Imagineeeinc/master/icon/Github.png" width="15px"></h3>
 <p id="projs">
 <a href="https://github.com/imagineeeinc/Table-Chat" taget="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=imagineeeinc&repo=Table-Chat">
