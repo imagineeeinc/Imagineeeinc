@@ -1,13 +1,8 @@
 <h1 id="head"><a href="https://imagineeeinc.github.io/">Imagineee</a></h1>
 <p>Hello, </p>
-<p style="margin-left: 90px;">
-I am a small imaginative developer who just wants to make ambitious project like 
-<a href="https://github.com/imagineeeinc/Wood-Note" taget="_blank">Wood Note</a> or
-<a href="https://github.com/imagineeeinc/Table-Chat" taget="_blank">Table Chat</a>
+<p>
+I am a small developer with ambitious dreams.
 </p>
-</div>
-</div>
-<div id="repos">
 <h3>Some of My Projects<img src="https://raw.githubusercontent.com/imagineeeinc/Imagineeeinc/master/icon/Github.png" width="15px"></h3>
 <p id="projs">
 <a href="https://github.com/imagineeeinc/Table-Chat" taget="_blank">
@@ -30,8 +25,6 @@ I am a small imaginative developer who just wants to make ambitious project like
 </a>
 </p>
 <a href="https://github.com/imagineeeinc?tab=repositories">Check My repositories and other projects</a>
-</div>
-<div id="info">
 <br>
 <p style="margin-left: 90px;">
 Check me on <a href="https://github.com/imagineeeinc" target="_blank">GitHub</a>
@@ -43,7 +36,6 @@ for my opensource projects
 
 ![Imagineeeinc's github stats](https://github-readme-stats.vercel.app/api?username=imagineeeinc&hide=stars&show_icons=true&theme=radical)
 </p>
-</div>
 <footer>
 <p>©2020</p>
 <a href="https://github.com/imagineeeinc">Imagineee</a>
