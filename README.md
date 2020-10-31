@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-<div id="header">
-<div id="headcon">
 <h1 id="head"><a href="https://imagineeeinc.github.io/">Imagineee</a></h1>
 <p>Hello, </p>
 <p style="margin-left: 90px;">
