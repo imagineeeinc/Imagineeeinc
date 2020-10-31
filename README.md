@@ -1,29 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
-
-<meta name="theme-color" content="white"/>
-<link rel="shortcut icon" type="image/png" href="favicon-32x32.png"/>
-<link rel="apple-touch-icon" sizes="180x180" href="Favicon/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="Favicon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="Favicon/favicon-16x16.png">
-</head>
 <body>
 <div id="header">
 <div id="headcon">
 <h1 id="head"><a href="https://imagineeeinc.github.io/">Imagineee</a></h1>
-<a href="https://github.com/imagineeeinc" target="_blank"><img src="https://raw.githubusercontent.com/imagineeeinc/Imagineeeinc/master/icon/Github.png" width="30px"></a>
-<a href="https://dev.to/imagineeeinc">
-<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="30" width="30">
-  </a>
-  <a href="https://stackoverflow.com/users/13628564/imagineeedev" target="_blank"><img src="https://raw.githubusercontent.com/imagineeeinc/Imagineeeinc/master/icon/so.png" width="30px"></a>
-<h3 style="margin-top: 80px;">
-<p>Is Open Source, </p>
-<p>Loves Open Source, </p>
-<p>Will Always be will Open Source</p>
-</h3>
-  <p>Hello, </p>
+<p>Hello, </p>
 <p style="margin-left: 90px;">
 I am a small imaginative developer who just wants to make ambitious project like 
 <a href="https://github.com/imagineeeinc/Wood-Note" taget="_blank">Wood Note</a> or
