@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Modern Programing Languages I Plan To Learn](https://dev.to/imagineeeinc/modern-programing-languages-i-plan-to-learn-21ij)
 - [Get rid of npm install](https://dev.to/imagineeeinc/get-rid-of-npm-install-ebe)
 - [A Clean Code Box](https://dev.to/imagineeeinc/a-clean-code-box-4ma1)
 <!-- BLOG-POST-LIST:END -->
