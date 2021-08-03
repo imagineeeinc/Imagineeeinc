@@ -56,7 +56,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=b25cff)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobephotoshop)
-![Blender](https://img.shields.io/badge/-Blender-000?&logo=ablender)
+![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
 
 ## Stats
 
