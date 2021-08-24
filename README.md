@@ -19,6 +19,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Snips](https://dev.to/imagineeeinc/code-snips-1np6)
 - [Auto Update in electron?](https://dev.to/imagineeeinc/auto-update-in-electron-4if9)
 - [A Clean Code Box](https://imagineee.medium.com/a-clean-code-box-3467ef9df678?source=rss-961eab0c64ba------2)
 - [Make A Cool Emoji Display Box](https://dev.to/imagineeeinc/make-a-cool-emoji-display-box-4h4h)
