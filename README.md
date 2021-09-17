@@ -44,7 +44,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/imagineeeinc?tab=repositories&q=&type=&language=javascript)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=B62829)
-![Rust](https://img.shields.io/badge/-Kotlin-000?&logo=Rust&logoColor=B7410E)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=B7410E)
 
 ## Tools
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
