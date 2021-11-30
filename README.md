@@ -5,16 +5,12 @@
 </h1>
 <h3 align="center">A small developer with big ambitious dreams</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imagineeeinc&label=Profile%20views&color=0e75b6&style=flat" alt="imagineeeinc" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imagineeeinc" alt="imagineeeinc" /></a> </p>
-
-- I’m currently learning **Rust**
 - [JSON Crumbs](https://json-crumbs.herokuapp.com/)
 - [Power Notepad](https://imagineeeinc.github.io/power-notepad/)
 - [Orbs JS](https://github.com/imagineeeinc/orbs-js)
 - My [website for my projects](https://imagineeeinc.github.io/)
-- 📝 I write articles on dev.to and medium [Dev.to](https://dev.to/imagineeeinc/) & [Medium](https://imagineee.medium.com/)
+- 📝 I write articles on [Dev.to](https://dev.to/imagineeeinc/) & [Medium](https://imagineee.medium.com/)
+- I’m currently learning **Rust**
 
 ### Blogs posts
 
@@ -62,6 +58,10 @@
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=blender)
 
 ## Stats
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imagineeeinc&label=Profile%20views&color=0e75b6&style=flat" alt="imagineeeinc" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imagineeeinc" alt="imagineeeinc" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imagineeeinc&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="imagineeeinc" /></p>
 
