@@ -2,9 +2,6 @@
   <img src="./img/Profile banner.png">
 </h1>
 <h3 align="center">About</h3>
-<p align="center">
-<a href="https://imagineee.web.app">imagineee.web.app</a>
-</p>
 
 A small Developer, with BIG ambitious dreams
 
@@ -16,6 +13,9 @@ I build html sites, style with css and quite familiar at JavaScript, and never u
 
 And I am always ready to learn more depending on what I need (including UI frameworks).
 
+<p align="center">
+<a href="https://imagineee.web.app">imagineee.web.app</a>
+</p>
 
 ### Blogs posts
 
