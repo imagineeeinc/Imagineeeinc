@@ -1,16 +1,21 @@
 <h1 align="center">
-  <img src="https://avatars.githubusercontent.com/u/59028351?v=4" width="5%">
-  <br>
-  Imagineee
+  <img src="./img/Profile banner.png">
 </h1>
-<h3 align="center">A small developer with big ambitious dreams</h3>
+<h3 align="center">About</h3>
+<p align="center">
+<a href="https://imagineee.web.app">imagineee.web.app</a>
+</p>
 
-- [JSON Crumbs](https://json-crumbs.herokuapp.com/)
-- [Power Notepad](https://imagineeeinc.github.io/power-notepad/)
-- [Orbs JS](https://github.com/imagineeeinc/orbs-js)
-- My [website for my projects](https://imagineeeinc.github.io/)
-- 📝 I write articles on [Dev.to](https://dev.to/imagineeeinc/) & [Medium](https://imagineee.medium.com/)
-- I’m currently learning **Rust**
+A small Developer, with BIG ambitious dreams
+
+Hi, I am Imagineee, an ambitious web developer.
+
+Started of from following a free course I found online to now an all rounder web designer, from back to front end and learning more always, and is always a huge dreamer of big things.
+
+I build html sites, style with css and quite familiar at JavaScript, and never use UI framework. I have worked with node js making servers to cli tools. I have built desktop apps with electron. And developer tools for developers to use for easier development. And learning Rust for amazing tools and Kotlin for mobile development.
+
+And I am always ready to learn more depending on what I need (including UI frameworks).
+
 
 ### Blogs posts
 
@@ -27,25 +32,28 @@
 - [A Clean Code Box](https://dev.to/imagineeeinc/a-clean-code-box-4ma1)
 <!-- BLOG-POST-LIST:END -->
 
- ## Contacts
- 
-<p align="left">
+
+<h2 align="center">Contacts</h2>
+<p align="center">
 <a href="https://codepen.io/imagineeeinc" target="blank"><img align="center" src="https://img.shields.io/badge/-CodePen-000?&logo=codepen" alt="imagineeeinc"/></a>
 <a href="https://dev.to/imagineeeinc" target="blank"><img align="center" src="https://img.shields.io/badge/-Dev.to-000?&logo=devdotto" alt="imagineeeinc" /></a>
 <a href="https://stackoverflow.com/users/imagineeedev" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-000?&logo=stackoverflow" alt="imagineeedev"/></a>
 <a href="https://medium.com/@imagineeelego" target="blank"><img align="center" src="https://img.shields.io/badge/-Medium-000?&logo=medium" alt="@imagineeelego"/></a>
 </p>
 
-## Languages
+<h2 align="center">Programming Languages</h2>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/imagineeeinc?tab=repositories&q=&type=&language=javascript)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=B62829)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=B7410E)
 
-## Tools
+<h2 align="center">Tools</h2>
+
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase&logoColor=ddc508)
+![Vite](https://img.shields.io/badge/-Vite-000?&logo=vite&logoColor=6050dc)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
 ![Deno](https://img.shields.io/badge/Deno-000?logo=deno)
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
