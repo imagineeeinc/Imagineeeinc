@@ -23,6 +23,7 @@
 <h2 align="center">Blogs posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Matrix time](https://dev.to/imagineeeinc/matrix-time-5enn)
 - [Rust for &quot;poor devs&quot;](https://dev.to/imagineeeinc/rust-for-poor-devs-4220)
 - [Deploy to Railway](https://dev.to/imagineeeinc/deploy-to-railway-49fc)
 - [best free api client for testing api](https://dev.to/imagineeeinc/best-free-api-client-for-testing-api-2ika)
