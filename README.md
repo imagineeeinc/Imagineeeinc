@@ -23,6 +23,7 @@
 <h2 align="center">Blogs posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Keep your email safe on github](https://dev.to/imagineeeinc/keep-your-email-safe-on-github-9c5)
 - [Matrix time](https://dev.to/imagineeeinc/matrix-time-5enn)
 - [Rust for &quot;poor devs&quot;](https://dev.to/imagineeeinc/rust-for-poor-devs-4220)
 - [Deploy to Railway](https://dev.to/imagineeeinc/deploy-to-railway-49fc)
