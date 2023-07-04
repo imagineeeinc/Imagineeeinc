@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/-Node-000?&logo=node.js" alt="Node.js">
   <a href="https://github.com/imagineeeinc?tab=repositories&q=&type=&language=kotlin"><img src="https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=B62829" alt="Kotlin"></a>
   <a href="https://github.com/imagineeeinc?tab=repositories&q=&type=&language=rust"><img src="https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=B7410E" alt="Rust"></a>
+<a href="https://github.com/imagineeeinc?tab=repositories&q=&type=&language=nim"><img src="https://img.shields.io/badge/-Nim-000?&logo=Nim&logoColor=FCCF03" alt="Nim"></a>
   <img src="https://img.shields.io/badge/-Python-000?&logo=python" alt="Python">
 </p>
 
@@ -64,15 +65,14 @@
   <img src="https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC" alt="VSCode">
   <img src="https://img.shields.io/badge/-Firebase-000?&logo=firebase&logoColor=ddc508" alt="Firebase">
   <img src="https://img.shields.io/badge/-Vite-000?&logo=vite&logoColor=6050dc" alt="Vite">
+  <img src="https://img.shields.io/badge/-Svelte-000?&logo=svelte&logoColor=FF4800" alt="Svelte">
   <img src="https://img.shields.io/badge/-Node-000?&logo=node.js" alt="Node.js">
   <img src="https://img.shields.io/badge/-Express-000?&logo=express" alt="express">
   <img src="https://img.shields.io/badge/Deno-000?logo=deno" alt="Deno">
-  <img src="https://img.shields.io/badge/-Node-000?&logo=node.js" alt="Node.js">
   <img src="https://img.shields.io/badge/-Electron-000?&logo=electron" alt="Electron">
   <img src="https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=0089D6" alt="Windows">
   <img src="https://img.shields.io/badge/-Kali_Liniux-000?&logo=kali-linux" alt="kali linux">
-  <img src="https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=b25cff" alt="Heroku">
   <a href="https://railway.app/?referralCode=IMAGINEEE"><img src="https://img.shields.io/badge/-Railway.app-000?&logo=railway" alt="Railway.app"></a>
   <img src="https://img.shields.io/badge/-Vercel-000?&logo=vercel" alt="Vercel">
   <img src="https://img.shields.io/badge/-Redis-000?&logo=redis" alt="Redis">
