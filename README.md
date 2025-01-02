@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/-Node-000?&logo=node.js" alt="Node.js">
   <a href="https://github.com/imagineeeinc?tab=repositories&q=&type=&language=kotlin"><img src="https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=B62829" alt="Kotlin"></a>
   <a href="https://github.com/imagineeeinc?tab=repositories&q=&type=&language=rust"><img src="https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=B7410E" alt="Rust"></a>
-<a href="https://github.com/imagineeeinc?tab=repositories&q=&type=&language=nim"><img src="https://img.shields.io/badge/-Nim-000?&logo=Nim&logoColor=FCCF03" alt="Nim"></a>
+  <a href="https://github.com/imagineeeinc?tab=repositories&q=&type=&language=nim"><img src="https://img.shields.io/badge/-Nim-000?&logo=Nim&logoColor=FCCF03" alt="Nim"></a>
   <img src="https://img.shields.io/badge/-Python-000?&logo=python" alt="Python">
 </p>
 
@@ -73,10 +73,8 @@
   <img src="https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=0089D6" alt="Windows">
   <img src="https://img.shields.io/badge/-Kali_Liniux-000?&logo=kali-linux" alt="kali linux">
-  <a href="https://railway.app/?referralCode=IMAGINEEE"><img src="https://img.shields.io/badge/-Railway.app-000?&logo=railway" alt="Railway.app"></a>
   <img src="https://img.shields.io/badge/-Vercel-000?&logo=vercel" alt="Vercel">
   <img src="https://img.shields.io/badge/-Redis-000?&logo=redis" alt="Redis">
-  <img src="https://img.shields.io/badge/-Photoshop-000?&logo=adobephotoshop" alt="Photoshop">
   <img src="https://img.shields.io/badge/-Blender-000?&logo=blender" alt="Blender">
   <img src="https://img.shields.io/badge/-Discord-000?&logo=discord" alt="Discord">
  </p>
