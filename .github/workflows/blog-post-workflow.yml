@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
             max_post_count: "20"
-            feed_list: "https://dev.to/feed/imagineeeinc, https://medium.com/feed/@imagineee, https://blog.232007.xyz/index.xml"
+            feed_list: "https://dev.to/feed/imagineeeinc, https://medium.com/feed/@imagineee, https://tilde.green/~imagineee/blog/index.xml"
