@@ -23,6 +23,7 @@
 <h2 align="center">Blogs posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Switching to Deno](/~imagineee/blog/posts/2025-05-01-switching-to-deno/)
 - [Making an Emulator](/~imagineee/blog/posts/2024-09-17-making-an-emulator/)
 - [Making a Personal Blog](/~imagineee/blog/posts/2024-09-01-making-a-personal-blog/)
 - [About](/~imagineee/blog/about/)
