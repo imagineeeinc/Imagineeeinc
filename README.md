@@ -43,9 +43,8 @@
 <h2 align="center">Contacts</h2>
 <p align="center">
 <a href="https://codepen.io/imagineeeinc" target="blank"><img align="center" src="https://img.shields.io/badge/-CodePen-000?&logo=codepen" alt="imagineeeinc"/></a>
-<a href="https://dev.to/imagineeeinc" target="blank"><img align="center" src="https://img.shields.io/badge/-Dev.to-000?&logo=devdotto" alt="imagineeeinc" /></a>
 <a href="https://stackoverflow.com/users/imagineeedev" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-000?&logo=stackoverflow" alt="imagineeedev"/></a>
-<a href="https://medium.com/@imagineeelego" target="blank"><img align="center" src="https://img.shields.io/badge/-Medium-000?&logo=medium" alt="@imagineeelego"/></a>
+<a href="https://tilde.zone/@imagineee" target="blank"><img align="center" src="https://img.shields.io/badge/-Mastodon-000?&logo=mastodon" alt="@imagineeelego@tilde.zone"/></a>
 </p>
 
 <h2 align="center">Programming Languages</h2>
