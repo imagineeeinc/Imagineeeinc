@@ -85,15 +85,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imagineeeinc&label=Profile%20views&color=0e75b6&style=flat" alt="imagineeeinc profile views" />
   <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imagineeeinc" alt="imagineeeinc" /></a>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imagineeeinc&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="imagineeeinc" />
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imagineeeinc&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="imagineeeinc" />
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imagineeeinc&theme=tokyonight&hide_border=true" alt="imagineeeinc" />
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=imagineeeinc&theme=tokyonight&hide_border=true" alt="imagineeeinc" />
 </p>
 <br><br><br><br><br>
 <p align="center">
