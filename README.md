@@ -1,20 +1,20 @@
 <h1 align="center">
   <img src="./img/Profile banner.png">
 </h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imagineeeinc&label=Profile%20views&color=0e75b6&style=flat" alt="imagineeeinc profile views" />
+</p>
 <h3 align="center">About</h3>
 
 <p align="center">
   A small Developer, with BIG ambitious dreams
 </p>
-<p align="center">
-  Hi, I am Imagineee, an ambitious web developer.
-  <br><br>
-  Started of from following a free course I found online to now an all rounder web designer, from back to front end and learning more always, and is always a huge dreamer of big things.
-  <br><br>
-  I build html sites, style with css and quite familiar at JavaScript, and never use UI framework. I have worked with node js making servers to cli tools. I have built desktop apps with electron. And developer tools for developers to use for easier development. And learning Rust for amazing tools and Kotlin for mobile development.
-  <br><br>
-  And I am always ready to learn more depending on what I need (including UI frameworks).
-</p>
+
+Hi there! I'm Imagineee, an ambitious web developer with a passion for learning and a desire to dream big.
+
+My coding journey began with deciding to learn how to make websites for fun, and I've since become a full-stack web developer, designer, Linux master and system admin.
+
+I love building websites and interactive web apps. I have experience with Node.js and Deno. Built desktop apps with Electron. Does system programming in Nim. And runs and manages servers with Linux and Docker.
 
 <p align="center">
   <a href="https://imagineee.web.app">imagineee.web.app</a>
@@ -39,14 +39,6 @@
 - [A Clean Code Box](https://dev.to/imagineeeinc/a-clean-code-box-4ma1)
 <!-- BLOG-POST-LIST:END -->
 
-
-<h2 align="center">Contacts</h2>
-<p align="center">
-<a href="https://codepen.io/imagineeeinc" target="blank"><img align="center" src="https://img.shields.io/badge/-CodePen-000?&logo=codepen" alt="imagineeeinc"/></a>
-<a href="https://stackoverflow.com/users/imagineeedev" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-000?&logo=stackoverflow" alt="imagineeedev"/></a>
-<a href="https://tilde.zone/@imagineee" target="blank"><img align="center" src="https://img.shields.io/badge/-Mastodon-000?&logo=mastodon" alt="@imagineeelego@tilde.zone"/></a>
-</p>
-
 <h2 align="center">Programming Languages</h2>
 
 <p align="center">
@@ -63,33 +55,21 @@
 <h2 align="center">Tools</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC" alt="VSCode">
-  <img src="https://img.shields.io/badge/-Firebase-000?&logo=firebase&logoColor=ddc508" alt="Firebase">
   <img src="https://img.shields.io/badge/-Vite-000?&logo=vite&logoColor=6050dc" alt="Vite">
   <img src="https://img.shields.io/badge/-Svelte-000?&logo=svelte&logoColor=FF4800" alt="Svelte">
   <img src="https://img.shields.io/badge/-Node-000?&logo=node.js" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Express-000?&logo=express" alt="express">
   <img src="https://img.shields.io/badge/Deno-000?logo=deno" alt="Deno">
   <img src="https://img.shields.io/badge/-Electron-000?&logo=electron" alt="Electron">
-  <img src="https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=0089D6" alt="Windows">
-  <img src="https://img.shields.io/badge/-Kali_Liniux-000?&logo=kali-linux" alt="kali linux">
-  <img src="https://img.shields.io/badge/-Vercel-000?&logo=vercel" alt="Vercel">
-  <img src="https://img.shields.io/badge/-Redis-000?&logo=redis" alt="Redis">
-  <img src="https://img.shields.io/badge/-Blender-000?&logo=blender" alt="Blender">
-  <img src="https://img.shields.io/badge/-Discord-000?&logo=discord" alt="Discord">
  </p>
 
-<h2 align="center">Stats</h2>
-
+<!-- <h2 align="center">Stats</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imagineeeinc&label=Profile%20views&color=0e75b6&style=flat" alt="imagineeeinc profile views" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imagineeeinc&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="imagineeeinc" />
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imagineeeinc&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="imagineeeinc" />
-</p>
-<br><br><br><br><br>
+</p> -->
 <p align="center">
   <a href="https://imagineee.web.app/">
     <img src="https://imagineeeinc.github.io/made-with-love-by-imagineee/made-with-love-dark-grey.svg" alt="Made with love by imagineee" height="128px">
